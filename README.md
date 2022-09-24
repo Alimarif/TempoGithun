@@ -1,2 +1,2 @@
 # TempoGithun
-Studying Github
+Studying Github!
